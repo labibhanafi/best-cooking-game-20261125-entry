@@ -1,8 +1,8 @@
 # Ember & Ladle — Rush Hour Kitchen
 
-[![make.fun](https://img.shields.io/badge/make.fun-bounty-ff6b35)](https://make.fun/bounty/best-cooking-game-20261125-0137)
-[![repo](https://img.shields.io/badge/github-labibhanafi%2Fbest--cooking--game--20261125--entry-24292e)](https://github.com/labibhanafi/best-cooking-game-20261125-entry)
-[![play](https://img.shields.io/badge/play-ember%20%26%20ladle-58b368)](https://make.fun/r/3t7y0djc)
+[![make.fun bounty](https://make.fun/badge/best-cooking-game-20261125-0137.svg)](https://make.fun/bounty/best-cooking-game-20261125-0137)
+[![rank](https://make.fun/badge/best-cooking-game-20261125-0137/labibhanafi/best-cooking-game-20261125-entry/rank.svg)](https://make.fun/bounty/best-cooking-game-20261125-0137)
+[![reward](https://make.fun/badge/best-cooking-game-20261125-0137/labibhanafi/best-cooking-game-20261125-entry/reward.svg)](https://make.fun/bounty/best-cooking-game-20261125-0137)
 
 A complete, original cooking game for the [best cooking game bounty](https://make.fun/bounty/best-cooking-game-20261125-0137) on make.fun. You are the only chef on shift in a small ember-lit kitchen: orders land on the board, patience drains, and you plan your route — pantry, chopping board, stove, assembly counter, serving window — to get every dish out before the customer walks away.
 
